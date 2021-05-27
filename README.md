@@ -1,1 +1,13 @@
 # MOVIE_RECOMMENDATION_SYSTEM
+
+PROBLEM STATEMENT:-
+To design a movie recommendation system that provides suggestions to the users through a filtering process that is based on user preferences and browsing history with the help of machine learning algorithms
+
+Machine learning algorithm used:-
+Collaborative Filtering
+
+Correlation explains how one or more variables are related to each other. These variables can be input data features which have been used to forecast our target variable.
+
+Sample data file for my project has been taken from the MOVIELENS website
+Movie_Id_Titles format
+![image](https://user-images.githubusercontent.com/58220929/119769919-42b98080-be70-11eb-8dda-03feada0f435.png)
